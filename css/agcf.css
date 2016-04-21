@@ -1,0 +1,14 @@
+/**
+ * AGCF
+ */
+
+#agcf-language-switcher, #agcf-language-switcher select {
+	font-size:small;
+}
+#agcf-language-switcher img {
+	width:20px;
+	margin-left:5px;
+	margin-right:2px;
+	border:1px solid #DEDEDE;
+}
+
